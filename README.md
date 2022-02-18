@@ -25,8 +25,8 @@ Para esta entrega intermedia se solicitó avance del proyecto tal como la navega
 - Paquete Firebase 9:  
 *npm install firebase*
 
-- Paquete Firebase 9:  
+- Paquete Firebase Data Export and Import:  
 *npm install firestore-export-import*
 
-- Paquete SweetAlert:
+- Paquete SweetAlert:  
 *npm install sweetalert*
