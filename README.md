@@ -1,3 +1,5 @@
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 # ZONA MATERIAL
 ------------
 ### Proyecto e-commerce del curso React de CoderHouse - Entrega intermedia
