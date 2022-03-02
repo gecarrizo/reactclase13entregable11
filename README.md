@@ -30,3 +30,7 @@ Para esta entrega intermedia se solicitó avance del proyecto tal como la navega
 
 - Paquete SweetAlert:  
 *npm install sweetalert*
+
+
+### Captura
+https://user-images.githubusercontent.com/91683991/156431043-c8855aa6-9909-477d-8f3e-2916977669b7.mp4
